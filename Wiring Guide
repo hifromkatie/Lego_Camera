@@ -1,0 +1,15 @@
+LCD Screen to Pi
+3-5V  to  5V (Pin 2)
+CS    to  BCM 7 (Pin 26)
+SCK   to  BCM 11 (Pin 23)
+MOSI  to  BCM 10 (Pin 19)
+DC    to  BCM 9 (Pin 21)
+BL    to  BCM19 (Pin 35)
+
+Power tact switch
+BCM3 (Pin5)
+GND (Pin 6)
+
+Trigger tact switch
+BCM 27 (Pin 13)
+GND (Pin 14)
